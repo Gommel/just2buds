@@ -1,0 +1,6 @@
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\bin\Debug\PROG110-ProjectTemplate.exe.config
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\bin\Debug\PROG110-ProjectTemplate.exe
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\bin\Debug\PROG110-ProjectTemplate.pdb
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\obj\Debug\MohamedBurhanProject8.csprojResolveAssemblyReference.cache
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\obj\Debug\PROG110-ProjectTemplate.exe
+C:\Users\Jamil\Documents\Visual Studio 2013\Projects\Programming110\MohamedBurhanProject8\MohamedBurhanProject8\obj\Debug\PROG110-ProjectTemplate.pdb
