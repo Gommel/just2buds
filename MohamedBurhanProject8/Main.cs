@@ -122,27 +122,27 @@ class ApplicationEntry
             case 2:
         
             Console.WriteLine( "You've recieved a 10 percent discount for ordering 2 pizzas!");
-            doubleDiscount = .10;
+            doubleDiscount = 0.9;
             break;
         
         
             case 3:
 
             Console.WriteLine("You've recieved a 15 percent discount for ordering" + number + "pizzas");
-            doubleDiscount = .15;
+            doubleDiscount = .85;
             break;
 
            
             case 4:
 
             Console.WriteLine("You've recieved a 15 percent discount for ordering" + number + "pizzas");
-            doubleDiscount = .15;
+            doubleDiscount = .85;
             break;
 
             default:
         
             Console.WriteLine( "You've recieved a 20 percent discount for ordering 5 or more!");
-            doubleDiscount = .20;
+            doubleDiscount = .80;
             break;
 
        
@@ -172,7 +172,6 @@ class ApplicationEntry
                     doubleCost.ToString("C2"));
 
             finaltotal = doubleCost * doubleDiscount;
-            finaltotal = finaltotal + doubleCost;
             Console.WriteLine("The cost final total is {0}.", finaltotal );
         }
 
